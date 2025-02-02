@@ -1,0 +1,2 @@
+cd task_1.class-components/rs-react-app
+npm run format:fix && npm run lint
